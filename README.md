@@ -13,7 +13,7 @@
 
 ---
 
-## 👔 Professional Summary
+## Summary
 
 **Full-Stack Developer** specializing in building scalable, production-ready web applications. With expertise across the entire development stack, I transform business requirements into efficient, user-friendly solutions. My focus is on delivering high-quality code and seamless user experiences.
 
