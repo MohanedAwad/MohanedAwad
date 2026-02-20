@@ -34,20 +34,17 @@
 
 ### Live Applications in Production
 
-**[Fajr Al Khair](https://fajeralkhair.com/)** - E-commerce Platform  
+**[Fajr Al Khair](https://fajeralkhair.com/)** - Platform  
 Full-stack e-commerce solution with payment integration and inventory management.
 
 **[K-Shop](https://k-shopx.com/)** - Online Marketplace  
 Multi-vendor marketplace with secure authentication and order tracking.
 
 **[Ms Focal ME](https://msfocalme.com/)** - Professional Services Platform  
-Client management system with booking and analytics features.
 
 **[Dera Health](https://derahealth.sa/)** - Healthcare Management System  
-Patient portal with appointment scheduling and medical records management.
 
-**[ScoutMe](https://www.scoutmesolutions.com/)** - Sports Recruitment Platform  
-Talent matching platform with profile management and video portfolio features.
+**[ScoutMe](https://www.scoutmesolutions.com/)** - Sports Platform 
 
 *...and more projects in active development*
 
@@ -70,7 +67,6 @@ Talent matching platform with profile management and video portfolio features.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -81,6 +77,7 @@ Talent matching platform with profile management and video portfolio features.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
