@@ -34,17 +34,17 @@
 
 ### Live Applications in Production
 
-**[Fajr Al Khair](https://fajeralkhair.com/)** - Platform  
-Full-stack e-commerce solution with payment integration and inventory management.
+**[Fajr Al Khair](https://fajeralkhair.com/)** 
 
-**[K-Shop](https://k-shopx.com/)** - Online Marketplace  
-Multi-vendor marketplace with secure authentication and order tracking.
+**[K-Shop](https://k-shopx.com/)**
 
-**[Ms Focal ME](https://msfocalme.com/)** - Professional Services Platform  
+**[Ms Focal ME](https://msfocalme.com/)**
 
-**[Dera Health](https://derahealth.sa/)** - Healthcare Management System  
+**[Dera Health](https://derahealth.sa/)**
 
-**[ScoutMe](https://www.scoutmesolutions.com/)** - Sports Platform 
+**[ScoutMe](https://www.scoutmesolutions.com/)** 
+
+**[bn-dasman](https://www.bn-dasman.com/)**
 
 *...and more projects in active development*
 
