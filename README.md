@@ -32,19 +32,23 @@
 
 ## 🚀 Production Projects
 
-### Live Applications in Production
-
-**[Fajr Al Khair](https://fajeralkhair.com/)** 
-
-**[K-Shop](https://k-shopx.com/)**
+### Live Applications in Production 
 
 **[Ms Focal ME](https://msfocalme.com/)**
 
+**[Fajr Al Khair](https://fajeralkhair.com/)** 
+
+**[Al Haji](https://alhajicard.com/)**
+
+**[bn-dasman](https://www.bn-dasman.com/)**
+
 **[Dera Health](https://derahealth.sa/)**
+
+**[K-Shop](https://k-shopx.com/)**
 
 **[ScoutMe](https://www.scoutmesolutions.com/)** 
 
-**[bn-dasman](https://www.bn-dasman.com/)**
+
 
 *...and more projects in active development*
 
